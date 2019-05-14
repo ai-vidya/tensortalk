@@ -1,0 +1,3 @@
+[submodule "mastering-tensorflow"]
+	path = mastering-tensorflow
+	url = git@github.com:armando-fandango/Mastering-TensorFlow.git
